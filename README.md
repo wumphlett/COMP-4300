@@ -1,2 +1,3 @@
 # COMP-4300
-Auburn COMP 4300 Assignments
+COMP 4300 Assignments  
+Computer Architecture  
