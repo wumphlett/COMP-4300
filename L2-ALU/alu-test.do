@@ -1,4 +1,4 @@
-# Adding variables to the wave
+vsim alu
 add wave -position insertpoint sim:/alu/*
 
 # Test for unsigned addition 

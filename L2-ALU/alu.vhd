@@ -14,9 +14,8 @@ entity alu is
 end entity alu;
 
 architecture logic of alu is
-
 begin
-    alu_operation: process(operand1, operand2, operation) is
+    alu: process(operand1, operand2, operation) is
         variable overflow : boolean := false;
         variable operation_result : dlx_word;
         variable divide_by_zero: boolean;
@@ -68,7 +67,7 @@ begin
             when "0101" => -- two's complement divide
                 bv_div(operand1, operand2, operation_result, divide_by_zero, overflow);
                 if divide_by_zero then
-                    error <= "0101" after prop_delay;
+                    error <= "0011" after prop_delay;
                 end if;
                 result <= operation_result after prop_delay;
             when "0110" => -- logical AND
@@ -98,5 +97,5 @@ begin
             when others =>
                 result <= x"00000000";
         end case;
-    end process alu_operation;
+    end process alu;
 end architecture logic;
