@@ -1,8 +1,3 @@
-# COMP 4300
-COMP 4300 Assignments  
-Computer Architecture  
-
-```
 
     Total Views per Day from 2022-08-14 to 2022-08-25
 
@@ -26,4 +21,3 @@ Computer Architecture
 
     Chart last updated - Thu Aug 25 09:10:50 2022 UTC
     
-```
