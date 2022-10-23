@@ -4,7 +4,7 @@ Computer Architecture
 
 ```
 
-    Total Views per Day from 2022-08-14 to 2022-10-22
+    Total Views per Day from 2022-08-14 to 2022-10-23
 
     Repository Views
   386.00  ┼                                                                ╭╮
@@ -22,8 +22,8 @@ Computer Architecture
    77.20  ┤                       ╭╯│                                     │ │
    51.47  ┤                       │ ╰╮                                ╭╮ ╭╯ ╰╮
    25.73  ┤          ╭╮  ╭╮ ╭╮  ╭─╯  │        ╭╮╭─╮                 ╭╮││╭╯   │
-    0.00  ┼──────────╯╰──╯╰─╯╰──╯    ╰────────╯╰╯ ╰─────────────────╯╰╯╰╯    ╰──
+    0.00  ┼──────────╯╰──╯╰─╯╰──╯    ╰────────╯╰╯ ╰─────────────────╯╰╯╰╯    ╰───
 
-    Chart last updated - Sat Oct 22 00:42:45 2022 UTC
+    Chart last updated - Sun Oct 23 00:40:53 2022 UTC
     
 ```
